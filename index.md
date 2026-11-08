@@ -29,7 +29,12 @@ BrainBoost is free and shows ads using the **Google Mobile Ads SDK (AdMob)**.
 
 ---
 
-### 3. Device Permissions
+### 3. In-App Purchases
+BrainBoost offers an optional one-time "Remove Ads" purchase. Payment is handled entirely by Google Play or the Apple App Store; we never see or store your payment details. The app only records on your device that the purchase was made, and asks the store to confirm it so it can be restored after a reinstall. Refer to [Google Play's](https://policies.google.com/privacy) or [Apple's](https://www.apple.com/legal/privacy/) privacy policy for how they process payments.
+
+---
+
+### 4. Device Permissions
 - **Internet and network state**: Used to load ads and open links.
 - **Notifications**: Used only for local daily workout reminders that you turn on in Settings. No notifications are sent from external servers.
 - **Vibration**: Used for haptic feedback during games. You can turn it off in Settings.
@@ -37,23 +42,23 @@ BrainBoost is free and shows ads using the **Google Mobile Ads SDK (AdMob)**.
 
 ---
 
-### 4. Children's Privacy
+### 5. Children's Privacy
 BrainBoost is intended for a general audience and is not directed at children under 13. We do not knowingly collect personal information from children.
 
 ---
 
-### 5. Data Export and Deletion
+### 6. Data Export and Deletion
 - You can export your progress as a JSON file from **Settings**.
 - You can permanently erase all app data with **Settings > Reset All Data**, by clearing the app's data in your device settings, or by uninstalling the app.
 - For data collected by Google for advertising, use the controls described in section 2.
 
 ---
 
-### 6. Changes to This Policy
-We may update this policy from time to time. Changes will be posted at this page with a new "Last updated" date.
+### 7. Changes to This Policy
+We may update this policy from time to time. Changes will be posted on this page with a new "Last updated" date.
 
 ---
 
-### 7. Contact Us
+### 8. Contact Us
 If you have questions about this Privacy Policy, contact us at:
 - **Email**: androidpyus@gmail.com
