@@ -2,6 +2,7 @@
 title: BrainBoost Privacy Policy
 ---
 
+# Privacy Policy for BrainBoost
 
 **Last updated:** November 8, 2026
 
