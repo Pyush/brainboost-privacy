@@ -11,8 +11,8 @@ title: BrainBoost Privacy Policy
 ---
 
 ### 1. Information We Store
-- **On-device data only**: Your game scores, reaction times, accuracy, streaks, training history, cognitive benchmarks, badges, titles, Brain Sparks and theme preferences are stored **only on your device**, in the app's private storage.
-- **No account required**: BrainBoost does not ask you to create an account or provide personal details such as your name, email address or phone number.
+- **On-device by default**: Your game scores, reaction times, accuracy, streaks, training history, cognitive benchmarks, badges, titles, Brain Sparks and theme preferences are stored on your device, in the app's private storage. If you choose to sign in to Google Play Games, a copy is also saved with Google, as described in section 4.
+- **No account required**: BrainBoost does not ask you to create an account or provide personal details such as your name, email address or phone number. Google Play Games sign-in is optional.
 - **No server of our own**: We do not operate servers that receive your gameplay data. Anonymous usage statistics are sent to Google Firebase Analytics, as described in section 3.
 - **"More apps" list**: Once a day, the app downloads a public list of our other apps from pyush.github.io. This is a plain download; no data about you is sent with it.
 - **Device backups**: If backups are enabled on your device, Android may include BrainBoost's data in your own Google account backup so it can be restored on a new device. This is controlled by you in your device settings.
@@ -41,12 +41,23 @@ On Android, BrainBoost uses **Google Firebase Analytics** to understand how the 
 
 ---
 
-### 4. In-App Purchases
+### 4. Google Play Games (Optional, Android)
+On Android, you can sign in to **Google Play Games** from the app's Settings. Returning Play Games players may be signed in automatically. When you are signed in:
+
+- **Cloud save**: a copy of your BrainBoost progress (the same data listed in section 1) is stored in Google Play Games **Saved Games**, so it can be restored if you reinstall or move to a new device. Reminder settings and the Remove Ads purchase are not included.
+- **Leaderboards and achievements**: your Total XP, your best Standard-mode score in each game, and the trophies you unlock are sent to Play Games leaderboards and achievements.
+- **What we see**: the app sees your Play Games profile (gamer name, avatar and player ID) only to provide these features. We never receive your email address or Google account details, and we do not store any of this on servers of our own.
+- **Visibility**: whether other players can see your scores and game activity is controlled in your Google Play Games profile settings.
+- **Your controls**: if you never sign in, nothing is sent to Google Play Games. You can delete your Play Games data for BrainBoost, or your whole Play Games profile, in the Google Play Games app or at [play.google.com/store/account](https://play.google.com/store/account). Google processes this data under the [Google Privacy Policy](https://policies.google.com/privacy).
+
+---
+
+### 5. In-App Purchases
 BrainBoost offers an optional one-time "Remove Ads" purchase. Payment is handled entirely by Google Play or the Apple App Store; we never see or store your payment details. The app only records on your device that the purchase was made, and asks the store to confirm it so it can be restored after a reinstall. Refer to [Google Play's](https://policies.google.com/privacy) or [Apple's](https://www.apple.com/legal/privacy/) privacy policy for how they process payments.
 
 ---
 
-### 5. Device Permissions
+### 6. Device Permissions
 - **Internet and network state**: Used to load ads, send anonymous usage analytics, download the "More apps" list and open links.
 - **Our other apps** (package visibility): The "More apps" screen checks whether our other apps are already installed, so it can show "Open" instead of "Get". Only our own apps are checked, and the result never leaves your device.
 - **Notifications**: Used only for local daily workout reminders that you turn on in Settings. No notifications are sent from external servers.
@@ -55,24 +66,25 @@ BrainBoost offers an optional one-time "Remove Ads" purchase. Payment is handled
 
 ---
 
-### 6. Children's Privacy
+### 7. Children's Privacy
 BrainBoost is intended for a general audience and is not directed at children under 13. We do not knowingly collect personal information from children.
 
 ---
 
-### 7. Data Export and Deletion
+### 8. Data Export and Deletion
 - You can export your progress as a JSON file from **Settings**.
-- You can permanently erase all app data with **Settings > Reset All Data**, by clearing the app's data in your device settings, or by uninstalling the app.
-- For data collected by Google for advertising and analytics, use the controls described in sections 2 and 3.
+- You can permanently erase all app data with **Settings > Reset All Progress**, by clearing the app's data in your device settings, or by uninstalling the app. If you are signed in to Google Play Games, Reset All Progress also replaces your cloud save.
+- Play Games achievements and leaderboard scores can be deleted from your Google Play Games profile, as described in section 4.
+- For data collected by Google for advertising and analytics, use the controls described in sections 2, 3 and 4.
 
 ---
 
-### 8. Changes to This Policy
+### 9. Changes to This Policy
 We may update this policy from time to time. Changes will be posted on this page with a new "Last updated" date.
 
 ---
 
-### 9. Contact Us
+### 10. Contact Us
 If you have questions about this Privacy Policy, contact us at:
 - **Email**: androidpyus@gmail.com
 
