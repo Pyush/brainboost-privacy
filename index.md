@@ -62,3 +62,7 @@ We may update this policy from time to time. Changes will be posted on this page
 ### 8. Contact Us
 If you have questions about this Privacy Policy, contact us at:
 - **Email**: androidpyus@gmail.com
+
+---
+
+See also: [Terms of Service](terms)
