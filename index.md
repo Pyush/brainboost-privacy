@@ -14,6 +14,7 @@ title: BrainBoost Privacy Policy
 - **On-device data only**: Your game scores, reaction times, accuracy, streaks, training history, cognitive benchmarks, badges, titles, Brain Sparks and theme preferences are stored **only on your device**, in the app's private storage.
 - **No account required**: BrainBoost does not ask you to create an account or provide personal details such as your name, email address or phone number.
 - **No server of our own**: We do not operate servers that receive your gameplay data. Anonymous usage statistics are sent to Google Firebase Analytics, as described in section 3.
+- **"More apps" list**: Once a day, the app downloads a public list of our other apps from pyush.github.io. This is a plain download; no data about you is sent with it.
 - **Device backups**: If backups are enabled on your device, Android may include BrainBoost's data in your own Google account backup so it can be restored on a new device. This is controlled by you in your device settings.
 
 ---
@@ -46,7 +47,8 @@ BrainBoost offers an optional one-time "Remove Ads" purchase. Payment is handled
 ---
 
 ### 5. Device Permissions
-- **Internet and network state**: Used to load ads, send anonymous usage analytics and open links.
+- **Internet and network state**: Used to load ads, send anonymous usage analytics, download the "More apps" list and open links.
+- **Our other apps** (package visibility): The "More apps" screen checks whether our other apps are already installed, so it can show "Open" instead of "Get". Only our own apps are checked, and the result never leaves your device.
 - **Notifications**: Used only for local daily workout reminders that you turn on in Settings. No notifications are sent from external servers.
 - **Vibration**: Used for haptic feedback during games. You can turn it off in Settings.
 - **Run at startup**: Used to restore your scheduled reminders after your device restarts.
