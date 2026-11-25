@@ -6,7 +6,7 @@ title: BrainBoost Terms of Service
 
 **Last updated:** November 24, 2026
 
-These terms apply to the **BrainBoost** mobile app ("the app"), published by Pyush Apps ("we", "us"). By downloading or using the app, you agree to these terms. If you do not agree, please do not use the app.
+These terms apply to the **BrainBoost** mobile app ("the app"), published by Ultimate Play Studio ("we", "us"). By downloading or using the app, you agree to these terms. If you do not agree, please do not use the app.
 
 ---
 

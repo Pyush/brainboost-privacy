@@ -14,7 +14,7 @@ title: BrainBoost Privacy Policy
 - **On-device by default**: Your game scores, reaction times, accuracy, streaks, training history, cognitive benchmarks, badges, titles, Brain Sparks and theme preferences are stored on your device, in the app's private storage. If you choose to sign in to Google Play Games, a copy is also saved with Google, as described in section 4.
 - **No account required**: BrainBoost does not ask you to create an account or provide personal details such as your name, email address or phone number. Google Play Games sign-in is optional.
 - **No server of our own**: We do not operate servers that receive your gameplay data. Anonymous usage statistics are sent to Google Firebase Analytics, as described in section 3.
-- **"More apps" list**: Once a day, the app downloads a public list of our other apps from pyush.github.io. This is a plain download; no data about you is sent with it.
+- **"More apps" list**: Once a day, the app downloads a public list of our other apps from our website, ultimateplaystudio.com (formerly pyush.github.io). This is a plain download; no data about you is sent with it.
 - **Device backups**: If backups are enabled on your device, Android may include BrainBoost's data in your own Google account backup so it can be restored on a new device. This is controlled by you in your device settings.
 
 ---
